@@ -1,0 +1,8 @@
+telethon
+langchain
+langchain-community
+python-dotenv
+langchain_ollama
+rich
+pyotp
+growwapi
